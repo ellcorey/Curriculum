@@ -1,0 +1,24 @@
+<header class="site-header">
+
+  <div class="wrapper">
+    
+    <img src="/images/logo.png" alt="The Iron Yard" />
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+    <nav class="nav-collapse">
+      
+
+      <ul>
+        {% for page in site.pages %}
+          {% if page.nav %}
+          <li>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
+  </div>
+
+</header>

@@ -1,0 +1,22 @@
+---
+layout: default
+nav: true
+title: Notes and Assignments
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Welcome to TIY ATX UI Design August 2015!</h1>
+
+  <h3>Weekly Notes and Assigments</h3>
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.week-num %}
+    <li>
+    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
