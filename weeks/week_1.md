@@ -23,7 +23,7 @@ permalink: /week1/
         <a href="/08.25.15/">08.25.15: CSS Box Model and CSS Positioning</a>
     </li>
     <li>
-        <a href="/08.26.15/">08.26.15</a>
+        <a href="/08.26.15/">08.26.15: HTML Structural Elements, CSS Specificity, and Git</a>
     </li>
     <li>
         <a href="/08.27.15/">08.27.15</a>
