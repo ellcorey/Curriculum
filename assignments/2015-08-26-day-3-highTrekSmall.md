@@ -1,0 +1,34 @@
+---
+layout: assignment
+title:  "CSS Positioning Codepens"
+permalink: /08.26.15/high_trek_small_screen/
+---
+#### Description
+Using what you learned in lecture and reading, re-create the following small-screen layout.  
+
+- Use the following layouts to complete this assigment:
+    + [Outer Layer](/assets/8.26.15/high-trek/outer_layer.jpg)
+    + [Inner Layer](/assets/8.26.15/high-trek/inner_layer.jpg)
+- Using your knowledge of HTML and CSS, code the "outer_layer.jpg" layout.  Try to be as close as you can with color, size, shape, fonts, etc. You can use the following tools to help:
+    + Color Picker (download from Mac App store)- allows you to eye-dropper colors
+    + Screen Capture (command + shift + 4)- will tell you the dimensions of an element/spacing if you drag around it
+
+#### Objectives
+- Understand the different types of CSS Specificity and how they are used
+- Apply understanding of display and floats for positioning elements.
+- Practice the box model
+- Practice different HTML5 syntax (header, footer, section, nav, and div)
+
+#### Performance Objectives
+After completing this assignment, you should be able to effectively 
+
+- Be able to write syntactically correct CSS that is clean and organized
+- Use HTML structural elements to create a small screen layout of a website from a composition
+
+#### Details
+
+Deliverables
+- Create a project folder called “day_03”
+- The HTML file must be called index.html
+- The CSS file must be called style.css
+ 

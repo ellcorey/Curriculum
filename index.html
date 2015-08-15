@@ -5,18 +5,41 @@ title: Notes and Assignments
 ---
 
 <div class="home">
-
   <h1 class="page-heading">Welcome to TIY ATX UI Design August 2015!</h1>
-
-  <h3>Weekly Notes and Assigments</h3>
-
-<ul>
-  {% for page in site.pages %}
-    {% if page.week-num %}
-    <li>
-    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-  </ul>
+  <div class="weeks">
+  <ul>
+    {% for page in site.pages %}
+      {% if page.week-num %}
+      <li>
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+  <div class="page-info">
+    <h4>Contact</h4>
+    <p>Abby Larner, Instructor: abby@theironyard.com</p>
+    <p>Travis Swicegood, Campus Director: travis@theironyard.com</p>
+    <h4>Hours</h4>
+    <p>Class is Monday through Thursday 9am–12pm, and lab hours are 1-5pm Monday through Thursday, and 9am-12pm and 1-5pm on Friday. The lab space is available for student use 24/7 in building K and most of the day in building C.</p>
+    <h4>Communication Policy</h4>
+    <ul>
+      <li>More is better than less</li>
+      <li>A peer is better than a Google search</li>
+      <li>A google search is better than staring into the abyss</li>
+      <li>Stargazing is better than giving up</li>
+      <li>Asking for help is always encouraged</li>
+      <li>Sharing is good, but always include a source. Do not spread misinformation</li>
+      <li>Slack and especially lab hours, are your friend</li>
+      <li>Be open when you are struggling, feeling behind, or overwhelmed</li>
+    </ul>
+    <a href="/code-of-conduct/">Read The Iron Yard Code of Conduct</a>
+    <h4>Weekly Notes and Assignments</h4>
+    <p>Everyday a bit of written, audio, or video resources will be assigned to review, which will supplement class assignments. <strong>Assignments are always due by 8:59am of the following day, unless noted.</strong> Thursday Assignments will be due Monday morning.
+  </p>
+  <p>
+    Every Tuesday and Thursday morning we will do a 10 minute critique on a website/app that you find that you think represents good design.  You will be required to defend your decision.  The specifics of this project will be posted in the assignment for those days. 
+    </p>
+  </div>
 </div>

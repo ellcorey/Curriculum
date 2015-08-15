@@ -26,9 +26,6 @@ permalink: /week1/
         <a href="/08.26.15/">08.26.15: HTML Structural Elements, CSS Specificity, and Git</a>
     </li>
     <li>
-        <a href="/08.27.15/">08.27.15</a>
-    </li>
-    <li>
-        <a href="/08.28.15/">08.28.15</a>
+        <a href="/08.27.15/">08.27.15: Responsive Design, Media Queries, and Cross Browser Compatibility</a>
     </li>
 </ul>
