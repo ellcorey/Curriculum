@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title:  "Sass for High Trek"
-permalink: /09.01.15/sass_for_high_trek/
+permalink: /09.01.15/sass-for-high-trek/
 ---
 #### Description
 Using what you learned in lecture and reading, use Sass to clean up the structure of your High Trek website CSS.

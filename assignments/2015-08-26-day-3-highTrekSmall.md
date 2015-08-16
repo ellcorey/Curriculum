@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title:  "CSS Positioning Codepens"
-permalink: /08.26.15/high_trek_small_screen/
+permalink: /08.26.15/high-trek-small-screen/
 ---
 #### Description
 Using what you learned in lecture and reading, re-create the following small-screen layout.  

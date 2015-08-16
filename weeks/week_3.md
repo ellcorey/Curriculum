@@ -16,10 +16,10 @@ permalink: /week3/
 <h4>Notes and Assigments</h4>
 <ul>
     <li>
-        <a href="/09.07.15/">09.07.15: Design Fundamentals and Color Theory</a>
+        <a href="/09.07.15/">09.07.15: Design Research and Discovery</a>
     </li>
     <li>
-        <a href="/09.08.15/">09.08.15: Design Research and Discovery</a>
+        <a href="/09.08.15/">09.08.15: Design Fundamentals and Color Theory</a>
     </li>
     <li>
         <a href="/09.09.15/">09.09.15: Introduction to Photoshop and Style Tiles</a>

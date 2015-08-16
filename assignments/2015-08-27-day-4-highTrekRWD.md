@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title:  "High Trek Responsive Website"
-permalink: /08.27.15/high_trek_rwd/
+permalink: /08.27.15/high-trek-rwd/
 ---
 #### Description
 Using what you learned in lecture and reading, finish part 2 of the High Trek  small screen website, and code the large version responsively.
