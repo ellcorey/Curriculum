@@ -94,10 +94,15 @@ a:hover, a:focus, a:active {
 
 nav {
 	float: right;
-	width: 60%
+	width: 60%;
 
 	ul {
 		float: right;
+
+		li {
+			float: left;
+			padding: 0 20px;
+		}
 	}
 }
 
