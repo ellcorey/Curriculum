@@ -16,15 +16,15 @@ permalink: /Curriculum/week4/
 <h4>Notes and Assignments</h4>
 <ul>
     <li>
-        <a href="/09.07.15/">09.07.15: Accessibility</a>
+        <a href="09.14.15/">09.14.15: Accessibility</a>
     </li>
     <li>
-        <a href="/09.08.15/">09.08.15: CSS3 Animation and Browser Compatibility</a>
+        <a href="09.15.15/">09.15.15: CSS3 Animation and Browser Compatibility</a>
     </li>
     <li>
-        <a href="/09.09.15/">09.09.15: Introduction to User Experience</a>
+        <a href="09.16.15/">09.16.15: Introduction to User Experience</a>
     </li>
     <li>
-        <a href="/09.10.15/">09.10.15: </a>
+        <a href="09.17.15/">09.17.15: </a>
     </li>
 </ul>

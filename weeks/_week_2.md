@@ -19,15 +19,15 @@ permalink: /Curriculum/week2/
 <h4>Notes and Assignments</h4>
 <ul>
     <li>
-        <a href="/08.31.15/">08.31.15: Github and The Command Line</a>
+        <a href="08.31.15/">08.31.15: Github and The Command Line</a>
     </li>
     <li>
-        <a href="/09.01.15/">09.01.15: Sass Basics and an Introduction to the Grid</a>
+        <a href="09.01.15/">09.01.15: Sass Basics and an Introduction to the Grid</a>
     </li>
     <li>
-        <a href="/09.02.15/">09.02.15: More Grids and (Grid) Mixins</a>
+        <a href="09.02.15/">09.02.15: More Grids and (Grid) Mixins</a>
     </li>
     <li>
-        <a href="/09.03.15/">09.03.15: Typography</a>
+        <a href="09.03.15/">09.03.15: Typography</a>
     </li>
 </ul>
