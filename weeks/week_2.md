@@ -16,7 +16,7 @@ permalink: /week2/
     <li>Understand typographic concepts and how to apply them to the web</li>
 </ul>
 
-<h4>Notes and Assigments</h4>
+<h4>Notes and Assignments</h4>
 <ul>
     <li>
         <a href="/08.31.15/">08.31.15: Github and The Command Line</a>

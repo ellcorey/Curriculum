@@ -4,7 +4,7 @@ title:  "Typography for Restaurant Website"
 permalink: /09.07.15/typography-for-restaurant-website/
 ---
 #### Description
-Begin typographic discovery for your restaurant website by creating 10 typographic specemins for your website.  Use Photoshop or typecast to create 10 possible typographic directions.
+Begin typographic discovery for your restaurant website by creating 10 typographic specemins for your website.  Use Typecast to create 10 possible typographic directions.
 
 #### Objectives
 - Understand how to create a typographic specemin and defend your typographic choices

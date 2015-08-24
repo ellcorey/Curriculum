@@ -13,7 +13,7 @@ permalink: /week3/
     <li>be able to use Photoshop to create style tiles</li>
 </ul>
 
-<h4>Notes and Assigments</h4>
+<h4>Notes and Assignments</h4>
 <ul>
     <li>
         <a href="/09.07.15/">09.07.15: Design Research and Discovery</a>
@@ -25,6 +25,6 @@ permalink: /week3/
         <a href="/09.09.15/">09.09.15: Introduction to Photoshop and Style Tiles</a>
     </li>
     <li>
-        <a href="/09.10.15/">09.10.15: </a>
+        <a href="/09.10.15/">09.10.15: Photoshop Mockups</a>
     </li>
 </ul>

@@ -14,7 +14,7 @@ permalink: /week1/
     <li>be able to upload assignments to Github using iTerm</li>
 </ul>
 
-<h4>Notes and Assigments</h4>
+<h4>Notes and Assignments</h4>
 <ul>
     <li>
         <a href="/08.24.15/">08.24.15: Welcome and Basic HTML and CSS</a>
