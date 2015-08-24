@@ -2,7 +2,7 @@
 layout: week
 title: Week 1
 week-num: 1
-permalink: /Curriculum/week1/
+url: /Curriculum/week1/
 ---
 <h3>HTML and CSS Basics</h3>
 <h4>Objectives</h4>
