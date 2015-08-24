@@ -166,10 +166,6 @@ footer {
 	float: left;
 }
 
-.nav-collapse {
-	float: right;
-}
-
 @media screen and (min-width: 640px) {
 	.page-content {
 		.wrapper {
@@ -191,6 +187,13 @@ footer {
 	}
 
 	.nav-collapse {
+		float: right;
+		margin-top: 16px;
+
+		ul {
+			overflow: hidden;
+		}
+
 		li {
 			float: left;
 			width: 50%;
