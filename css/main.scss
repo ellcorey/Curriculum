@@ -209,9 +209,8 @@ footer {
 		clear: none;
 
 		ul {
-			overflow: hidden;
 			float: right;
-			width: 406px;
+			width: 0;
 		}
 
 		li {
@@ -221,5 +220,4 @@ footer {
 			width: initial;
 		}
 	}
-
 }
