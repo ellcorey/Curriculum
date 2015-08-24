@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title:  "About Me Page"
-permalink: 08.24.15/about-me-page/
+permalink: /week1/08.24.15/about-me-page/
 ---
 #### Description
 Using what you learned in lecture and reading, make a 1-page HTML and CSS site about yourself. Have fun with it and use as many tags as you’d like from our lecture links, and any new ones you learn about in your reading.
