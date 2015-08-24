@@ -3,7 +3,7 @@ title: TIY ATX UI Design August 2015
 email: abby@theironyard.com
 description: > # this means to ignore newlines until "baseurl:"
  
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://tiy-atx-ui-aug2015.github.io/Curriculum/" # the subpath of your site, e.g. /blog/
 twitter_username: abbylarner
 github_username:  abbylarner
 
