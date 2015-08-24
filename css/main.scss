@@ -162,6 +162,14 @@ footer {
 	border-bottom: 1px solid #c6c6c6;
 }
 
+.site-info {
+	float: left;
+}
+
+nav {
+	float: right;
+}
+
 @media screen and (min-width: 640px) {
 	.page-content {
 		.wrapper {
