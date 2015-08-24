@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title:  "CSS Positioning Codepens"
-permalink: /08.25.15/css-positioning-codepens/
+permalink: /Curriculum/week1/08.25.15/css-positioning-codepens/
 ---
 #### Description
 Using what you learned in lecture and reading, re-create the following layouts in separate Codepens that you can share tomorrow in class.
