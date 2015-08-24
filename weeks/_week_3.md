@@ -2,7 +2,7 @@
 layout: week
 title: Week 3
 week-num: 3
-permalink: /week3/
+permalink: /Curriculum/week3/
 ---
 <h3>Design Fundamentals, Design Research, Photoshop Intro</h3>
 <h4>Objectives</h4>

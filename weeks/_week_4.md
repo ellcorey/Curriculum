@@ -2,7 +2,7 @@
 layout: week
 title: Week 4
 week-num: 4
-permalink: /week4/
+permalink: /Curriculum/week4/
 ---
 <h3>Deep Dive into CSS, Accessibility, and Intro to UX</h3>
 <h4>Objectives</h4>
