@@ -186,6 +186,18 @@ footer {
 		float: left;
 	}
 
+	.nav-collapse {
+		float: right;
+		margin-top: 16px;
+		width: 50%;
 
+		ul {
+			overflow: hidden;
+		}
+
+		li {
+			float: left;
+		}
+	}
 
 }
