@@ -172,6 +172,14 @@ footer {
 
 .nav-collapse {
 	clear: both;
+
+	li {
+		padding: 10px;
+	}
+}
+
+.js .nav-collapse-0.opened {
+	max-height: 150px;
 }
 
 @media screen and (min-width: 640px) {
