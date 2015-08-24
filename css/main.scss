@@ -92,19 +92,6 @@ a:hover, a:focus, a:active {
 	}
 }
 
-nav {
-	float: right;
-	width: 60%;
-
-	ul {
-		float: right;
-
-		li {
-			float: left;
-			padding: 0 20px;
-		}
-	}
-}
 
 .page-content {
 	.wrapper {
@@ -175,6 +162,10 @@ footer {
 	border-bottom: 1px solid #c6c6c6;
 }
 
+.nav-toggle {
+	float: right;
+}
+
 @media screen and (min-width: 640px) {
 	.page-content {
 		.wrapper {
@@ -193,5 +184,20 @@ footer {
 	.weeks {
 		width: 25%;
 		float: left;
+	}
+
+	nav {
+		float: right;
+		width: 45%;
+
+		ul {
+			float: right;
+
+			li {
+				float: left;
+				padding: 0 20px;
+				width: 25%;
+			}
+		}
 	}
 }
