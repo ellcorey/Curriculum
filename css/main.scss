@@ -205,12 +205,12 @@ footer {
 	.nav-collapse {
 		float: right;
 		margin-top: 16px;
-		width: 50%;
 		clear: none;
 
 		ul {
 			float: right;
 			width: 0;
+			min-width: 300px;
 		}
 
 		li {
