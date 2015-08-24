@@ -193,10 +193,14 @@ footer {
 
 		ul {
 			overflow: hidden;
+			float: right;
+			max-width: 300px;
 		}
 
 		li {
 			display: inline-block;
+			max-width: 250px;
+			padding: 0 15px;
 		}
 	}
 
