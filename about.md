@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 nav: true
 ---
-<h1>
+
 <h1 class="page-heading">About TIY UI Design</h1><h4>Contact</h4>
 <p>Abby Larner, Instructor: abby@theironyard.com</p>
 <p>Travis Swicegood, Campus Director: travis@theironyard.com</p>
