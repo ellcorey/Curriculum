@@ -4,9 +4,9 @@ title:  "CSS Positioning Codepens"
 permalink: /week1/08.26.15/high-trek-small-screen/
 ---
 #### Description
-Using what you learned in lecture and reading, re-create the following small-screen layout. (Today you do not need to include images or text, just complete the inner and outer layers--you will be finishing the second half of this assignment tomorrow).[Final High Trek Small-Screen](/Curriculum/assets/8.26.15/high-trek/images_styling.jpg) 
+Using what you learned in lecture and reading, re-create the following small-screen layout. (Today you do not need to include images or text, just complete the inner and outer layers--you will be finishing the second half of this assignment tomorrow). [Final High Trek Small-Screen](/Curriculum/assets/8.26.15/high-trek/images_styling.jpg) 
 
-- Use the following layouts to complete this assigment:
+- Use the following layouts to complete this assigment (you can control + click and "Save As" on the image to download it and view it in Preview):
     + [Outer Layer](/Curriculum/assets/8.26.15/high-trek/outer_layer.jpg)
     + [Inner Layer](/Curriculum/assets/8.26.15/high-trek/inner_layer.jpg)
 - Using your knowledge of HTML and CSS, code the "outer_layer.jpg" layout.  Try to be as close as you can with color, size, shape, fonts, etc. You can use the following tools to help:
