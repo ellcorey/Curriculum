@@ -1,10 +1,10 @@
 ---
 layout: assignment
 title:  "High Trek Responsive Website"
-permalink: /08.27.15/high-trek-rwd/
+permalink: /week1/08.27.15/high-trek-rwd/
 ---
 #### Description
-Using what you learned in lecture and reading, finish part 2 of the High Trek  small screen website, and code the large version responsively.
+Using what you learned in lecture and reading, finish part 2 of the High Trek  small screen website, and code the large version responsively (using media queries - min-width).
 
 #### Objectives
 - Solidify understanding of CSS positioning, box model
@@ -24,7 +24,7 @@ Using what you learned in lecture and reading, finish part 2 of the High Trek  s
 Deliverables
 - Working off of the same files you created yesterday, use the remaining two layouts to finish the small screen version of the High Trek website.  Once you have done that, use Media Queries to code the large version of the site.  The breakpoint should be at 799px. Submit as a zipped file.
 
-- [Text/Styling](/assets/8.26.15/high-trek/text_styling.jpg)
-- [Images/Styling](/assets/8.26.15/high-trek/images_styling.jpg) 
-- [Large Screen Version](/assets/8.26.15/high-trek/large_format.jpg)
-- [High Trek Images](/assets/8.27.15/high-trek-images.zip)
+- [Text/Styling](/Curriculum/assets/8.26.15/high-trek/text_styling.jpg)
+- [Images/Styling](/Curriculum/assets/8.26.15/high-trek/images_styling.jpg) 
+- [Large Screen Version](/Curriculum/assets/8.26.15/high-trek/large_format.jpg)
+- [High Trek Images](/Curriculum/assets/8.27.15/high-trek-images.zip)
