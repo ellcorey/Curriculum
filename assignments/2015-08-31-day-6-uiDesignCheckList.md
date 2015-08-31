@@ -1,7 +1,7 @@
 ---
 layout: assignment
 title:  "UI Design Checklist"
-permalink: /08.31.15/ui-design-checklist/
+permalink: /week2/08.31.15/ui-design-checklist/
 ---
 #### Description
 - Finish fixing any bugs with your High Trek website
