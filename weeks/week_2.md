@@ -2,7 +2,7 @@
 layout: week
 title: Week 2
 week-num: 2
-permalink: /Curriculum/week2/
+permalink: /week2/
 ---
 <h3>Github, Sass, Grids, and Typography</h3>
 <h4>Objectives</h4>
