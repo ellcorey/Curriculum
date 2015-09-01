@@ -1,7 +1,7 @@
 ---
 layout: post
 meta: The Iron Yard Code of Conduct 
-permalink: /code-of-conduct/
+permalink: /Curriculum/code-of-conduct/
 ---
 Like the technical community as a whole, classes at The Iron Yard are made up of a mixture of people from all different backgrounds.
 
