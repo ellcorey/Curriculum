@@ -1,0 +1,53 @@
+####Notes
+- Design Critique
+- Homework Debug
+- What is Sass?
+    + Why Use Sass? (vs Less)
+    + Difference between .scss and .sass
+    + Variables, Partials, Extends, Mixins (basic)
+- Install Sass/Bourbon
+- Introduction to Grids
+    + What is a grid?
+        * subdivides the page horizontally and vertically
+        * grid helps designer decide where to put things without anyone else seeing it 
+        * uses can range from psychological to functional to aesthetic
+        * creates a modular and systematic approach to layout
+        * size of parts are determined by readability and aesthetics (basically)
+        * gives designers a basis from which they can build and create
+    + History of the grid
+        * Grid started with early manuscripts and bibles which had a very modern look (jessicahische.com vs. manuscript image)
+        * Only difference was they used justified type, so while the rest of the design was symmetrical, the text was actually asymetrical because there were uneven spaces between words (finally challenged in 20th century)
+        * [Brief History of Grids](http://www.graphics.com/article-old/brief-history-grids)
+        * The Golden Ratio, Golden Section
+            - Used in book/manuscript design 
+            - Geometrically derived form found in nature and dates all the way back to ancient times (parthanon, pyramids)
+            - [The Golden Ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546?page=2)
+            - 1:1.16 (exact mathamatical ratio) based on the fibonacci sequence (adding two numbers to find the next)
+            - Rule of thirds: most basic way to use something close to the golden ratio 
+        * With the rise of literacy (and diverse reading audiences) around the Industrial revolution, artists first and then designers began to focus more on form and function working together
+        * Designers of different movements began to advocate minimalism
+        * Mid 20th century brought the rise of modernism: consistency and minimalism as a mark of design confidence and greater accessibility
+        * Jan Tschichold - New Typography/Swiss Refugee WWII - codified priniciples of modern typography (sans serif, left aligned)
+        * Swiss Modernist poster examples on google images
+        * [Swiss Grid System](http://guity-novin.blogspot.com/2011/07/chapter-42-swiss-grade-style-and-dutch.html)
+        * [What is a grid system](http://printingcode.runemadsen.com/lecture-grid/)
+    + Use of grids on the web
+        * [Column 5 Media](http://www.columnfivemedia.com/)
+        * [CGB](http://csabagabor.com/)
+        * [Matchstic](http://matchstic.com/)
+        * [Dribbble](www.dribbble.com)
+    + Common considerations: columns, gutters
+        * can't just consider the grid, must also consider white space surrounding content
+    + 12/18/24-column grids
+        * small screen is not just stacking rectangles
+        * not every grid is created equal (must fit the project!)
+        * [Washington Post](https://www.washingtonpost.com/) vs. [Pinterest](www.pinterest.com)
+    + Types of Grids
+        * Manuscript
+            - [The Web Ahead](http://thewebahead.net/topic/design)
+        * Column
+            - [Khoi Vinh](http://www.subtraction.com/2011/09/15/little-manhattan/)
+        * Module
+            - [Biber](http://biber.co/)
+        * Hierarchical (more based on intuitive/content placement than strict grid)
+            - [Swish Life](http://theswishlife.com/)
