@@ -11,12 +11,12 @@ Here's an example of a good sketch, and an example of a bad sketch:
 #### Bad Example
 Not a lot of detail, it’s hard to see the grid throughout the whole image, not a lot of labeling of sections. 
 
-![Bad Example of a Sketch](/images/bad_example.jpg)
+![Bad Example of a Sketch](/Curriculum/images/bad_example.jpg)
 
 #### Good Example
 A lot of detail, lots of labeling, including the name or address of the website. Grid columns are noticeable.  
 
-![Good Example of a Sketch](/images/good_example.jpg)
+![Good Example of a Sketch](/Curriculum/images/good_example.jpg)
 
 Use the following sites to create your sketches:
 - [Mashable](http://mashable.com/)
