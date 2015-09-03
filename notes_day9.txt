@@ -1,0 +1,44 @@
+####Notes
+- Meta tag (one more time)
+- PX, PT, EM, Percent 
+    + PX - fixed size for screens (1px = one dot on the screen)
+        * not consistent over different resolutions
+    + PT - fixed size for print
+    + EM - scalable size based on the current font size of the document (usually 16px or 1m)
+    + pxtoem
+    + EXAMPLE: font-size: 1em, 100%, 16px, 12pt -- what happens when you change body {font-size: 100%} vs body {font-size: 120%}
+    + Codepen px vs. em (forked)
+    + Percent Vs. Em
+        * In theory the same, but if you change base font (on body) to 1em instead of default percentage, test what happens font-size: 1em;, font-size: 100%;, body{ font-size: 1em} change **browser** text size smallest vs largest
+- Rems
+    + em based font sizing compounds (li within an li -- dropdown menu)
+        * can only be avoided by declaring child elements as 1em
+    + rem stands for "root em"
+    + em is relative to the root size of the parent, while rem is relative to the  root (or html) element
+    + Cons: not supported very well, must use fallbacks
+- Setting up base 10px font size (body: 62.5%)
+- Deep Dive into Type: Anatomy of Type
+    + cap height - top of capital letters
+    + median/x-height
+- Line Spacing
+    + min line-height of 1.6 for readability
+- Kearning
+    + awkward spacing for letters that angle out (V, W, T, Y)
+    + keep equal perceived space
+- Tracking
+    + uniform space across a text selection
+- Alignment/Body Copy Conventions
+- left aligned (no justified text!)
+- [Punctuation Guide](http://www.thepunctuationguide.com/em-dash.html)
+- Typography on the web
+    + lets talk about some websites typography
+- Bourbon if time permits
+**Inspect element to get images for weekend hw
+
+Articles
+- http://clagnut.com/blog/348/
+- https://css-tricks.com/css-font-size/
+- https://j.eremy.net/confused-about-rem-and-em/
+- (kern me)http://type.method.ac/
+- http://www.creativebloq.com/graphic-design-tips/five-pro-kerning-ticks-123230
+
